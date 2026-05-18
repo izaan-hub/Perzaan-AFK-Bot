@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Flare_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "FlareHeadsteal.aternos.me",
+    "port": 52951,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
